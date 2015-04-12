@@ -1447,7 +1447,7 @@ a.button i {
     height: 100%;
 }
 .parallax {
-    background-image: url(../images/flowers.jpg);
+    background-image: url(../images/img2.jpg);
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -1806,6 +1806,16 @@ a.button i {
     margin: auto;
     max-width: 770px;
     font-size: 0px;
+}
+
+#transport {
+    text-align: center;
+    background: #fff;
+}
+#transport h3.section-title:before {
+    content: "\f207";
+    font-size: 44px;
+    font-family: 'FontAwesome';
 }
 /* =========================================================== 
     17.  GuestBook
