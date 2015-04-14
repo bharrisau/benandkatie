@@ -340,7 +340,7 @@ if (!Array.prototype.indexOf) {
             var markerImages = {
                 airport: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 0),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344)},
                 hotel: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 58),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344)},
-                restaurant: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 116),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344) },
+                food: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 116),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344) },
                 shopping: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 174),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344) },    
                 attraction: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 58),origin: new google.maps.Point(0, 232),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344) },
                 special: { url:'images/map/MapPins-small-red1.png',size: new google.maps.Size(35, 54),origin: new google.maps.Point(0, 290),anchor: new google.maps.Point(17.5, 40),scaledSize: new google.maps.Size(35, 344) },
@@ -540,7 +540,7 @@ if (!Array.prototype.indexOf) {
 
         /* Instagram Script - change Tag to yours and update ClientId
         ==================================================================================== */
-        var instagramTag = 'benkatie15'; // Add Instagram Tag here
+        var instagramTag = 'benandkatiesayido'; // Add Instagram Tag here
         var instagramClientId = '630b5c9d2cab44e08fb9d014cf00b2b6'; // Add ClientId here
         var $instagramSection = $('#instagram-section');
         var max_tag_id = false;
