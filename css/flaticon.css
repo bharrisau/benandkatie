@@ -1,4 +1,14 @@
 @font-face {
+	font-family: "Wedding";
+	src: url("../fonts/wedding.eot");
+	src: url("../fonts/wedding.eot#iefix") format("embedded-opentype"),
+	url("../fonts/wedding.svg") format("svg"),
+	url("../fonts/wedding.woff") format("woff"),
+	url("../fonts/wedding.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
 	font-family: "Flaticon";
 	src: url("../fonts/flaticon.eot");
 	src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"),
